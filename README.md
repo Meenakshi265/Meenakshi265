@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meenakshi265
-- 👀 I’m interested in ... java language and flutte technology
+- 👀 I’m interested in ... Java language and future technology
 - 🌱 I’m currently learning . .. java and spring boot 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...meenakshibhatnagar265@gmail.com 
